@@ -1,0 +1,44 @@
+{
+    "connection": {
+		"token": "NzAxNTM5NzE3MjYyMzQ0Mjg0.Xpy91w.fwllS_TS0a64f5gKbu946GJ8h8"
+	},
+	"commands": {
+		"class": ["util", "admin", "mod", "help", "fun"]
+	},
+	"settings": {
+		"prefix": "/",
+    "coulour": "a80cf6",
+    "pp": "https://cdn.discordapp.com/icons/698190872507973812/a_5f343a71636fd408f04c916401f54bd4.gif",
+    "ns":" | Evening™ - 2020",
+		"channel": {
+		    "welcome": {
+		        "status": "on",
+			    "channelid": "699976706127167569"
+			},
+		    "commands": {
+		        "blockerstatus": "on",
+			    "channelid": "711748009393913866"
+		    },
+		    "log": {
+		        "channelid": "711748009393913866",
+		        "memberadd": "on",
+		        "memberremove": "on",
+		        "msgedit": "on",
+	         	"msgdelete": "on",
+	    	    "roleadd": "on",
+	         	"roleedit": "on",
+	    	    "roleremove": "on"
+	        },
+	      "nitroboost": {
+	        "status": "on",
+	        "channelid": "699976711671906375"
+	      }
+		},
+	    "role": {
+		    "adminroleid": "698191408519053313",
+		    "modroleid": "698191410372935702",
+		    "memberroleid": "699890850854862918",
+			"staffroleid": "700084846189609091"
+	    }
+	}
+}

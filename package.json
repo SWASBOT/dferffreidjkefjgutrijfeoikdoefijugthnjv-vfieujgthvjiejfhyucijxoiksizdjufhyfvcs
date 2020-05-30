@@ -1,0 +1,33 @@
+{
+  "name": "nexobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "giphy-api": "2.0.1",
+    "hastebin-gen": "^2.0.5",
+    "mc-hermes": "^0.1.5",
+    "mc-ping": "^0.0.3-0",
+    "moment": "^2.24.0",
+    "opusscript": "0.0.7",
+    "os": "^0.1.1",
+    "request": "^2.88.0",
+    "util": "^0.12.1",
+    "when": "^3.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
