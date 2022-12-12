@@ -6,7 +6,7 @@
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
     "discord.js": "^11.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^4.0.0",
     "fs": "^0.0.1-security",
